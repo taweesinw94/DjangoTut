@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MedAsa/.idea/MedAsa.iml" filepath="$PROJECT_DIR$/../MedAsa/.idea/MedAsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RestFrameworkTutorial/.idea/RestFrameworkTutorial.iml" filepath="$PROJECT_DIR$/../RestFrameworkTutorial/.idea/RestFrameworkTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tutorial.iml" filepath="$PROJECT_DIR$/.idea/tutorial.iml" />
+    </modules>
+  </component>
+</project>
